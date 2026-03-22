@@ -1,7 +1,7 @@
 const CommentsPage = () => {
     return (
         <div>
-            Comments
+            <h1>Коментарии пользователей</h1>
         </div>
     );
 };

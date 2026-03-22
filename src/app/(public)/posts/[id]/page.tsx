@@ -7,7 +7,7 @@ const PostsIdPage:FC<Props> = async ({params}) =>{
     const {id}=await params;
     return (
         <div>
-            Posts {id}
+            Посты пользователя {id}
         </div>
     );
 };

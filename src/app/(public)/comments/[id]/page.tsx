@@ -8,7 +8,7 @@ const CommentsIdPage:FC<Props> = async ({params}) => {
    const {id}=await params;
     return (
         <div>
-            Comments {id}
+            Комментарии пользователя {id}
         </div>
     );
 };

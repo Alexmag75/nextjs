@@ -1,7 +1,7 @@
 const PostsPage = () => {
     return (
         <div>
-            Posts
+            Посты пользователей
         </div>
     );
 };

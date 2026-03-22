@@ -8,7 +8,7 @@ const UsersIdPage:FC<Props> = async ({params}) => {
     const {id} = await params;
     return (
         <div>
-            Users {id}
+            Пользоватеь {id}
         </div>
     );
 };

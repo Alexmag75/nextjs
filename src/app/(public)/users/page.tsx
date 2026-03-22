@@ -1,7 +1,7 @@
 const UsersPage = () => {
     return (
         <div>
-            Users
+            Пользователи
         </div>
     );
 };
