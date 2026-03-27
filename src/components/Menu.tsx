@@ -8,15 +8,11 @@ export const Menu = () => {
                 </li>
 
                 <li>
-                    <Link href="/users">users</Link>
+                    <Link href="/cars">cars</Link>
                 </li>
 
                 <li>
-                    <Link href="/posts">posts</Link>
-                </li>
-
-                <li>
-                    <Link href="/comments">comments</Link>
+                    <Link href="/create">create cars</Link>
                 </li>
 
             </ul>
