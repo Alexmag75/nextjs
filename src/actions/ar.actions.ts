@@ -18,5 +18,5 @@ export async function addCarAction(formData: FormData) {
     }
 
     revalidatePath('/cars');
-    redirect('/cars');
+    redirect('cars');
 }
